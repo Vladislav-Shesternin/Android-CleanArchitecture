@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.room:room-ktx:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/f95ffec6d900d2d7266a4f91dcde5de3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/vlad/.gradle/caches/transforms-2/files-2.1/527f0d91de4346fe509fcd8c53d79265/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/fcc207174359cf495996cabf0358b482/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b11f35a1fa75e628a9d44efed1997f98/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/vlad/.gradle/caches/transforms-2/files-2.1/4786d243e43c75f830b0517bcf3cd921/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/vlad/.gradle/caches/transforms-2/files-2.1/9de16e4a879699e4123489648a46ff37/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a27ddf5b5b466a0d643c17f058f1e65f/AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b90eb62e41c63c47c52c57da86789bd9/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/78b9960d080efc36aa25a5bd34f7e445/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/14a8621bee59783ad5ed4aff46b0228a/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/37c4b014dfc5d8c20a3df9d387f6c72f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/3f60a03a279139daa059a969e4094ae1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/793ad12f7b2bcc1dd97167ae6d1ccfcd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/2ec0a4b1f2d2969f2bcb5ba64ab1c410/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/9e1537519fb6946d81cf73bd222e6479/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/7ec6ed3e26a17608216dc3a40731965b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/38145505ca7759f56571ba3ff5430d37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/2f4270d8a54b7536f45c3c8024781278/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/4f016d4169b52621367cbc5367c2d0da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf94efef5d206e67e61cde2922abdd8c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/00f3e66b1a796db603f3b9bbe97b7b87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a54f5b77aba36bd432014e72d89bc36a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/20d40a03136caadedfd159f3633488d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/7eb4aadf3fb94a273a593c3ba6860159/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/818d335127742d07061986bbf65baded/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/5f435d3a7cbc8acd61600ff697c7c05f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b6c1fd3d99201f4596ddf875dd06299c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/40785fdc8b3ba6bc3b3d3fae19ec3164/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/6db3e65557701dc09b80f6eaa5be4b61/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/8d74c72cdb18470b7342dc46eb776d9d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/c32797c49c695d1b4834218c53e95467/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/bfa2f3a2d41c77746b1debe68bc7fa52/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/1f881d22a2c31afc9d05434c82c13df1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/301dd392d0cba098a2f5aa9b542a0526/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/6a30e4cd3c7f3506cc2b5301ba6ebd83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b1d962bf167796dd684b450048f9f8c4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf73f8009beec7ecc066ca2b7c59fd65/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/5395c2aed61cee8c796d0846ee253a75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/290f554b6ac91ec349c8d8183b74d304/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/4bf6a8adcc7b30286031f00b65547821/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/6bdacbc9aa450abdcd77e67a991df455/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/76f8da1b7ea4411e3d0f2f4652751526/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a4971ce66dca46e6431e5b34cf213656/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/15773e3717ea37fc3e2eeb51e4b0fb39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/92fef75430d4a213b386c08d253b1610/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:11-61
+		INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:5:3-27:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/vlad/.gradle/caches/transforms-2/files-2.1/527f0d91de4346fe509fcd8c53d79265/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/vlad/.gradle/caches/transforms-2/files-2.1/527f0d91de4346fe509fcd8c53d79265/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b11f35a1fa75e628a9d44efed1997f98/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b11f35a1fa75e628a9d44efed1997f98/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a27ddf5b5b466a0d643c17f058f1e65f/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a27ddf5b5b466a0d643c17f058f1e65f/AndroidManifest.xml:24:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b90eb62e41c63c47c52c57da86789bd9/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b90eb62e41c63c47c52c57da86789bd9/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/14a8621bee59783ad5ed4aff46b0228a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/14a8621bee59783ad5ed4aff46b0228a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/40785fdc8b3ba6bc3b3d3fae19ec3164/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/40785fdc8b3ba6bc3b3d3fae19ec3164/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/6db3e65557701dc09b80f6eaa5be4b61/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/6db3e65557701dc09b80f6eaa5be4b61/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b1d962bf167796dd684b450048f9f8c4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b1d962bf167796dd684b450048f9f8c4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf73f8009beec7ecc066ca2b7c59fd65/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf73f8009beec7ecc066ca2b7c59fd65/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/40785fdc8b3ba6bc3b3d3fae19ec3164/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:9:7-58
+activity#com.raywenderlich.android.majesticreader.presentation.MainActivity
+ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:13:5-17:16
+	android:label
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:15:9-52
+	android:theme
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:14:9-50
+activity#com.raywenderlich.android.majesticreader.presentation.SplashActivity
+ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:20:5-26:16
+	android:name
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:20:15-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:21:7-25:23
+action#android.intent.action.MAIN
+ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:24:19-66
+uses-sdk
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/f95ffec6d900d2d7266a4f91dcde5de3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/f95ffec6d900d2d7266a4f91dcde5de3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/vlad/.gradle/caches/transforms-2/files-2.1/527f0d91de4346fe509fcd8c53d79265/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/vlad/.gradle/caches/transforms-2/files-2.1/527f0d91de4346fe509fcd8c53d79265/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/fcc207174359cf495996cabf0358b482/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/fcc207174359cf495996cabf0358b482/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b11f35a1fa75e628a9d44efed1997f98/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b11f35a1fa75e628a9d44efed1997f98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/vlad/.gradle/caches/transforms-2/files-2.1/4786d243e43c75f830b0517bcf3cd921/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/vlad/.gradle/caches/transforms-2/files-2.1/4786d243e43c75f830b0517bcf3cd921/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/vlad/.gradle/caches/transforms-2/files-2.1/9de16e4a879699e4123489648a46ff37/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/vlad/.gradle/caches/transforms-2/files-2.1/9de16e4a879699e4123489648a46ff37/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a27ddf5b5b466a0d643c17f058f1e65f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a27ddf5b5b466a0d643c17f058f1e65f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b90eb62e41c63c47c52c57da86789bd9/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b90eb62e41c63c47c52c57da86789bd9/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/78b9960d080efc36aa25a5bd34f7e445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/78b9960d080efc36aa25a5bd34f7e445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/14a8621bee59783ad5ed4aff46b0228a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/14a8621bee59783ad5ed4aff46b0228a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/37c4b014dfc5d8c20a3df9d387f6c72f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/37c4b014dfc5d8c20a3df9d387f6c72f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/3f60a03a279139daa059a969e4094ae1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/3f60a03a279139daa059a969e4094ae1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/793ad12f7b2bcc1dd97167ae6d1ccfcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/793ad12f7b2bcc1dd97167ae6d1ccfcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/2ec0a4b1f2d2969f2bcb5ba64ab1c410/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/2ec0a4b1f2d2969f2bcb5ba64ab1c410/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/9e1537519fb6946d81cf73bd222e6479/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/9e1537519fb6946d81cf73bd222e6479/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/7ec6ed3e26a17608216dc3a40731965b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/7ec6ed3e26a17608216dc3a40731965b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/38145505ca7759f56571ba3ff5430d37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/38145505ca7759f56571ba3ff5430d37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/2f4270d8a54b7536f45c3c8024781278/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/2f4270d8a54b7536f45c3c8024781278/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/4f016d4169b52621367cbc5367c2d0da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/4f016d4169b52621367cbc5367c2d0da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf94efef5d206e67e61cde2922abdd8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf94efef5d206e67e61cde2922abdd8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/00f3e66b1a796db603f3b9bbe97b7b87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/00f3e66b1a796db603f3b9bbe97b7b87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a54f5b77aba36bd432014e72d89bc36a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a54f5b77aba36bd432014e72d89bc36a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/20d40a03136caadedfd159f3633488d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/20d40a03136caadedfd159f3633488d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/7eb4aadf3fb94a273a593c3ba6860159/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/7eb4aadf3fb94a273a593c3ba6860159/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/818d335127742d07061986bbf65baded/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/818d335127742d07061986bbf65baded/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/5f435d3a7cbc8acd61600ff697c7c05f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/5f435d3a7cbc8acd61600ff697c7c05f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b6c1fd3d99201f4596ddf875dd06299c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b6c1fd3d99201f4596ddf875dd06299c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/40785fdc8b3ba6bc3b3d3fae19ec3164/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/40785fdc8b3ba6bc3b3d3fae19ec3164/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/6db3e65557701dc09b80f6eaa5be4b61/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/vlad/.gradle/caches/transforms-2/files-2.1/6db3e65557701dc09b80f6eaa5be4b61/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/8d74c72cdb18470b7342dc46eb776d9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/8d74c72cdb18470b7342dc46eb776d9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/c32797c49c695d1b4834218c53e95467/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/c32797c49c695d1b4834218c53e95467/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/bfa2f3a2d41c77746b1debe68bc7fa52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/bfa2f3a2d41c77746b1debe68bc7fa52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/1f881d22a2c31afc9d05434c82c13df1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/1f881d22a2c31afc9d05434c82c13df1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/301dd392d0cba098a2f5aa9b542a0526/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/301dd392d0cba098a2f5aa9b542a0526/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/6a30e4cd3c7f3506cc2b5301ba6ebd83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/vlad/.gradle/caches/transforms-2/files-2.1/6a30e4cd3c7f3506cc2b5301ba6ebd83/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b1d962bf167796dd684b450048f9f8c4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/b1d962bf167796dd684b450048f9f8c4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf73f8009beec7ecc066ca2b7c59fd65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf73f8009beec7ecc066ca2b7c59fd65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/5395c2aed61cee8c796d0846ee253a75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/5395c2aed61cee8c796d0846ee253a75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/290f554b6ac91ec349c8d8183b74d304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/290f554b6ac91ec349c8d8183b74d304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/4bf6a8adcc7b30286031f00b65547821/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/4bf6a8adcc7b30286031f00b65547821/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/6bdacbc9aa450abdcd77e67a991df455/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/6bdacbc9aa450abdcd77e67a991df455/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/76f8da1b7ea4411e3d0f2f4652751526/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/76f8da1b7ea4411e3d0f2f4652751526/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a4971ce66dca46e6431e5b34cf213656/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a4971ce66dca46e6431e5b34cf213656/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/15773e3717ea37fc3e2eeb51e4b0fb39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/15773e3717ea37fc3e2eeb51e4b0fb39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/92fef75430d4a213b386c08d253b1610/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/92fef75430d4a213b386c08d253b1610/AndroidManifest.xml:20:5-44
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vlad/Документы/Android Apps/Папка/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a27ddf5b5b466a0d643c17f058f1e65f/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a27ddf5b5b466a0d643c17f058f1e65f/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/a27ddf5b5b466a0d643c17f058f1e65f/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf73f8009beec7ecc066ca2b7c59fd65/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf73f8009beec7ecc066ca2b7c59fd65/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf73f8009beec7ecc066ca2b7c59fd65/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf73f8009beec7ecc066ca2b7c59fd65/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/cf73f8009beec7ecc066ca2b7c59fd65/AndroidManifest.xml:24:13-79

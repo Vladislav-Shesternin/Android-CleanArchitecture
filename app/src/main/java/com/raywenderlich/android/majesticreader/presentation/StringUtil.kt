@@ -34,10 +34,6 @@ import java.text.DecimalFormat
 
 object StringUtil {
 
-  /**
-   * Convenience method for formatting file size.
-   * Taken from: https://stackoverflow.com/a/5599842/2914696
-   */
   fun readableFileSize(size: Int): String {
     if (size <= 0) {
       return "0"

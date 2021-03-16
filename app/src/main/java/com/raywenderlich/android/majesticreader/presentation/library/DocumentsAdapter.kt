@@ -38,15 +38,15 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.RequestManager
 import com.raywenderlich.android.majesticreader.R
-import com.raywenderlich.android.majesticreader.Document
+import com.raywenderlich.android.majesticreader.domain.Document
 import com.raywenderlich.android.majesticreader.presentation.StringUtil
 import kotlinx.android.synthetic.main.item_document.view.*
 
 
 class DocumentsAdapter(
-    private val documents: MutableList<Document> = mutableListOf(),
-    private val glide: RequestManager,
-    private val itemClickListener: (Document) -> Unit
+        private val documents: MutableList<Document> = mutableListOf(),
+        private val glide: RequestManager,
+        private val itemClickListener: (Document) -> Unit
 ) : RecyclerView.Adapter<DocumentsAdapter.ViewHolder>() {
 
   class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
