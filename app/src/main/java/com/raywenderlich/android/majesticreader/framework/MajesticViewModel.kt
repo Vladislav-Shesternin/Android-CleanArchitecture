@@ -33,9 +33,11 @@ package com.raywenderlich.android.majesticreader.framework
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 
-open class MajesticViewModel(application: Application, protected val interactors: Interactors) :
-    AndroidViewModel(application) {
+open class MajesticViewModel(
+        application: Application,
+        protected val interactors: Interactors
+) : AndroidViewModel(application) {
 
-  protected val application: MajesticReaderApplication = getApplication()
+    protected val application: MajesticReaderApplication = getApplication()
 
 }

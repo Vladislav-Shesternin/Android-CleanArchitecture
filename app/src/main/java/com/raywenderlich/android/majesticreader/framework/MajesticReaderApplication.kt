@@ -31,15 +31,39 @@
 package com.raywenderlich.android.majesticreader.framework
 
 import android.app.Application
+import com.raywenderlich.android.majesticreader.data.BookmarkRepository
+import com.raywenderlich.android.majesticreader.data.DocumentRepository
+import com.raywenderlich.android.majesticreader.interactors.*
 
 class MajesticReaderApplication : Application() {
 
-  override fun onCreate() {
-    super.onCreate()
+    override fun onCreate() {
+        super.onCreate()
 
-    MajesticViewModelFactory.inject(
-        this,
-        Interactors()
-    )
-  }
+        val bookmarkRepository = BookmarkRepository(
+                RoomBookmarkDataSource(this)
+        )
+
+        val documentRepository = DocumentRepository(
+                RoomDocumentDataSource(this),
+                InMemoryOpenDocumentDataSource()
+        )
+
+        MajesticViewModelFactory.inject(
+                this,
+                Interactors(
+                        // Bookmark
+                        AddBookmarkUseCase(bookmarkRepository),
+                        GetBookmarksUseCase(bookmarkRepository),
+                        RemoveBookmarkUseCase(bookmarkRepository),
+                        // Document
+                        AddDocumentUseCase(documentRepository),
+                        GetDocumentsUseCase(documentRepository),
+                        RemoveDocumentUseCase(documentRepository),
+                        // Open Document
+                        GetOpenDocumentUseCase(documentRepository),
+                        SetOpenDocumentUseCase(documentRepository)
+                )
+        )
+    }
 }
