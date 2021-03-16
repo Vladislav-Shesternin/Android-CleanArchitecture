@@ -131,7 +131,7 @@ class ReaderViewModel(
             }
         }
 
-        val documentFromArguments = arguments.get(DOCUMENT_ARG) as Document? ?: Document.EMPTY
+        val documentFromArguments = arguments!!.get(DOCUMENT_ARG) as Document? ?: Document.EMPTY
 
         val lastOpenDocument = interactors.getOpenDocument()
 
